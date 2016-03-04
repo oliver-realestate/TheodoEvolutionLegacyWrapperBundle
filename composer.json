@@ -1,8 +1,7 @@
 {
-    "name": "theodo-evolution/legacy-wrapper-bundle",
+    "name": "oliver-realestate/legacy-wrapper-bundle",
     "type": "symfony-bundle",
     "keywords": ["legacy", "symfony1", "symfony2"],
-    "homepage": "http://www.theodo.fr",
     "license": "MIT",
     "authors": [
         {
