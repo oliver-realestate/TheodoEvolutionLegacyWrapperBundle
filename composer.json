@@ -26,10 +26,4 @@
         "phpspec/prophecy-phpunit": "~1.0",
         "theodo-evolution/fake-projects": "dev-master"
     },
-    "repositories": [
-        {
-            "type": "git",
-            "url": "https://github.com/theodo/theodo-evolution-fake-projects"
-        }
-    ],
 }
