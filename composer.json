@@ -26,4 +26,9 @@
         "phpspec/prophecy-phpunit": "~1.0",
         "theodo-evolution/fake-projects": "dev-master"
     },
+    "repositories": [
+        {"type": "composer", "url": "http://toran.readm.co.nz/repo/private/"},
+        {"type": "composer", "url": "http://toran.readm.co.nz/repo/packagist/"},
+        {"packagist": false}
+    ],
 }
