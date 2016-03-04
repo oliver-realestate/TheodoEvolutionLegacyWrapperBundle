@@ -32,9 +32,4 @@
             "url": "https://github.com/theodo/theodo-evolution-fake-projects"
         }
     ],
-    "extra": {
-        "branch-alias": {
-            "dev-master": "1.0.x-dev"
-        }
-    }
 }
